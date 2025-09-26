@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">👥 Team Members
 - Mohamed Hossny Hussein
-- Saed Magdy Elsaeed
+- Saeed Magdy Elsaeed
 - Mostafa Mohamed Hassan
 - Abeer Abd Elneam Mahmoued
 - MennaTullah Reda Mohamed
