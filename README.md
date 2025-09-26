@@ -16,7 +16,5 @@ The application provides visual insights and analytical dashboards based on real
 Compare Usage Trends: Analyze changes in metro and transportation usage before and after the fuel price increase.
 Distance Analysis: Study how trip distances vary across time periods and different transport modes.
 Public Transport Insights: Provide detailed insights into metro usage patterns including peak hours, station popularity, and route preferences.
-
 Policy Impact Assessment: Evaluate how fuel price changes impacted user decisions and transportation behavior.
-
 Data Visualization: Offer clear and interactive visualizations for better understanding of complex data.
