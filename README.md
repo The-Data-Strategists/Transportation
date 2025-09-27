@@ -39,7 +39,11 @@ The goal is to provide insights on demand, efficiency, fuel impact, and sustaina
 - Metro Data → Daily passenger counts per station.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">🎯 Project plan
-
+- week 1 (Data processing & cleaning & Data modelling) through Excel
+- week 2 (Pivot table relations & Dashoard)
+- Week 3 (data processing through SQL)
+- week 4 (data processing through Python)
+- week 5 (data dashboard through PowerBi)
 
 
 
