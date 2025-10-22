@@ -43,7 +43,8 @@ The goal is to provide insights on demand, efficiency, fuel impact, and sustaina
 - week 2 (Pivot table relations & Dashoard)
 - Week 3 (data processing through SQL)
 - week 4 (data processing through Python)
-- week 5 (data dashboard through PowerBi)
+- week 5 (data visualization through tableu) 
+- week 6 (data dashboard through PowerBi)
 
 
 
