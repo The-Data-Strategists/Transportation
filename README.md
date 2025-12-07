@@ -21,7 +21,7 @@ The application provides visual insights and analytical dashboards based on real
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">🎯 Instructor Name
 
-Dr Amal Mahmoud
+- Dr Amal Mahmoud
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">🎯 Project scope
 
